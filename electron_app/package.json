@@ -1,0 +1,32 @@
+{
+  "name": "exam-portal",
+  "version": "1.0.0",
+  "description": "exam portal for students",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+github.com:2020mt93520/exam-portal.git"
+  },
+  "keywords": [
+    "tools",
+    "toolkit",
+    "dev"
+  ],
+  "author": "\"suriya-ganesh\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2020mt93520/exam-portal"
+  },
+  "homepage": "https://github.com/2020mt93520/exam-portal",
+  "devDependencies": {
+    "electron": "^16.0.6",
+    "electron-reload": "^2.0.0-alpha.1"
+  },
+  "dependencies": {
+    "diff": "^5.0.0"
+  }
+}
